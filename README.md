@@ -19,6 +19,6 @@ The goal of the game is to destroy 3 pentagrams using the aura by standing in ci
 </p>
 
 I was responsible for most of the technical aspects of the game, i.e. programming, animations, level building.
-All Art and Music were made by my teammate Chertkov.
+All the art and music were made by my teammate [Chertkov](https://chertkov.itch.io/).
 
 The game was made using Unity 2019
