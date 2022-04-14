@@ -18,7 +18,7 @@ The goal of the game is to destroy 3 pentagrams using the aura by standing in ci
   <img src="https://github.com/3079/Decay/blob/main/decay1.gif?raw=true"/>
 </p>
 
-I was responsible for most of the technical aspects of the game, i.e. programming, animations, level building.
+I was responsible for most of the technical aspects of the game, i.e. programming, animations, level building.  
 All the art and music were made by my teammate [Chertkov](https://chertkov.itch.io/).
 
 The game was made using Unity 2019
